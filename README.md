@@ -10,7 +10,7 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 ## About Me!
 
 * 👨🏽‍💻 I completed my BCA from Durgapur Society of Management Science College.
-* 💻 Currently working as Software Developer at <a href="https://wiseneoscoindia.com/" target="_blank">Wise Neosco India Pvt. Ltd.</a>.
+* 💻 Currently working as Software Developer at <a href="https://www.freecharge.in" target="_blank">Freecharge Payment Technologies Pvt Ltd</a>.
 * 🌱 Currently advancing in Mobile Apps, Web Apps, Desktop Software, and Full Stack Projects.
 * 🤔 Hand-on experience and developing applications using React.js, React Native, Node.js, Express.js and Electron.js.
 * 💬 I'm always open to chatting about tech or anything else under the sun!
