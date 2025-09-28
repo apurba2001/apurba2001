@@ -1,19 +1,19 @@
-# Hi 👋, I'm Apurba Ruidas
+# Hi, I'm Apurba Ruidas
 
 [![Static Badge](https://img.shields.io/badge/apurba2001-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white&link=https%3A%2F%2Fgithub.com%2Fapurba2001)](https://github.com/apurba2001)
 [![Static Badge](https://img.shields.io/badge/Linkdin-%230085CA?style=for-the-badge&logo=linkedin&logoColor=%230085CA&labelColor=white)](https://www.linkedin.com/in/apurba-ruidas/)
 [![Static Badge](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white)](mailto:apurbaruidas0358@gmail.com)
 [![Static Badge](https://img.shields.io/badge/portfolio-%2300AA28?style=for-the-badge&logo=googlechrome&logoColor=%2300AA28&labelColor=white)](https://apurba2001.github.io/)
 
-Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems. Currently, I am advancing my skills through innovative web development, mobile app development, desktop software, and full-stack projects.
+Welcome to my GitHub! I'm a **Software Development Engineer** passionate about building robust and scalable applications. With professional experience in **FinTech** and **IoT**, I enjoy tackling complex challenges across web, mobile, and desktop platforms.
 
 ## About Me!
 
-* 👨🏽‍💻 I completed my BCA from Durgapur Society of Management Science College.
-* 🌱 Currently advancing in Mobile Apps, Web Apps, Desktop Software, and Full Stack Projects.
-* 🤔 Hand-on experience and developing applications using React.js, React Native, Node.js, Express.js and Electron.js.
-* 💬 I'm always open to chatting about tech or anything else under the sun!
-* 📫 Reach out via [email](mailto:apurbaruidas0358@gmail.com) for collaboration or queries.
+* Currently working as a **Software Development Engineer** at **Freecharge**.
+* Pursuing a **Master of Science in Computer Science** from **Woolf University**, building on my Bachelor's in Computer Application.
+* My experience spans the full stack, from building FinTech solutions with **Python/Django** to developing cross-platform IoT applications with the **MERN stack**, **React Native**, and **Electron.js**.
+* I'm always open to collaborating on innovative projects and discussing technology.
+* Feel free to reach out via [email](mailto:apurbaruidas0358@gmail.com) for a chat or potential opportunities.
 
 ## Skills
 ### Technical Skills:
@@ -32,10 +32,9 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 ![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23000000&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/react%20native-%2309D3AC?style=for-the-badge&logo=react&logoColor=%2309D3AC&labelColor=white)
-![Static Badge](https://img.shields.io/badge/android-%2334A853?style=for-the-badge&logo=android&logoColor=%2334A853&labelColor=white)
-![Static Badge](https://img.shields.io/badge/ios-%23000000?style=for-the-badge&logo=ios&logoColor=%23000000&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/express.js-%23000000?style=for-the-badge&logo=express&logoColor=%23000000&labelColor=white)
+![Static Badge](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/electron.js-%2347848F?style=for-the-badge&logo=electron&logoColor=%2347848F&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/tauri-%2324C8D8?style=for-the-badge&logo=tauri&logoColor=%2324C8D8&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/socket.io-%23010101?style=for-the-badge&logo=socketdotio&logoColor=%23010101&labelColor=white)
@@ -43,6 +42,8 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=white)
+![Static Badge](https://img.shields.io/badge/android-%2334A853?style=for-the-badge&logo=android&logoColor=%2334A853&labelColor=white)
+![Static Badge](https://img.shields.io/badge/ios-%23000000?style=for-the-badge&logo=ios&logoColor=%23000000&labelColor=white)
 
 **Tools and Platforms**
 
@@ -77,4 +78,4 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 ![Static Badge](https://img.shields.io/badge/Flexibility-%23005AF0?style=for-the-badge&logoColor=%23005AF0&labelColor=white)
 
 Thank you for visiting my profile! 
-Feel free to reach out to me through the links above.🤗
+Feel free to reach out to me through the links above.
